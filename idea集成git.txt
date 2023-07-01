@@ -1,0 +1,11 @@
+定位GIT：
+	File----Settings----Version Control----Git，配置git的路径即可
+
+托管代码：
+	idea上面会有一个Git按钮，点击之后点enable什么
+	之后在文件上右键即可出现Git菜单
+
+都完成之后，Git相关的操作就都可以在idea导航栏的Git或者右键项目/文件出现的Git菜单中来进行
+
+IDEA绑定Github账号：
+	File----Settings----Version Control----GitHub，即可绑定账号。绑定之后可推送拉取克隆等
